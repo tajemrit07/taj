@@ -69,3 +69,4 @@ third_wheeler.destroy()
 
 
 titanic.showPassengers()
+print()
